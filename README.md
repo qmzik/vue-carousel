@@ -1,7 +1,5 @@
 # carousel-vue
 
-[Github Pages](https://qmzik.github.io/vue-carousel/)
-
 ## Project setup
 ```
 npm install
